@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PIWC-QRCODE-Generator/static/css/main.62593869.css",
+    "main.js": "/PIWC-QRCODE-Generator/static/js/main.ab593934.js",
+    "static/js/787.1dab2e5b.chunk.js": "/PIWC-QRCODE-Generator/static/js/787.1dab2e5b.chunk.js",
+    "index.html": "/PIWC-QRCODE-Generator/index.html",
+    "main.62593869.css.map": "/PIWC-QRCODE-Generator/static/css/main.62593869.css.map",
+    "main.ab593934.js.map": "/PIWC-QRCODE-Generator/static/js/main.ab593934.js.map",
+    "787.1dab2e5b.chunk.js.map": "/PIWC-QRCODE-Generator/static/js/787.1dab2e5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62593869.css",
+    "static/js/main.ab593934.js"
+  ]
+}
